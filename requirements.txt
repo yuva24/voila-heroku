@@ -332,11 +332,6 @@ Theano==1.0.5
 thinc==7.4.0
 tifffile==2021.2.26
 toml==0.10.2
-toolz==0.11.1
-torch==1.7.1+cu101
-torchsummary==1.5.1
-torchtext==0.3.1
-torchvision==0.8.2+cu101
 tornado==6.1
 tqdm==4.41.1
 traitlets==5.0.5
@@ -347,15 +342,5 @@ voila==0.2.7
 wasabi==0.8.2
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wordcloud==1.5.0
-wrapt==1.12.1
-xarray==0.15.1
-xgboost==0.90
-xlrd==1.1.0
-xlwt==1.3.0
-yarg==0.1.9
-yellowbrick==0.9.1
-zict==2.0.0
-zipp==3.4.0
