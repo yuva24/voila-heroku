@@ -1,6 +1,5 @@
 voila-material
 absl-py==0.10.0
-python-3.8.5
 contextlib2==0.5.5
 google==2.0.3
 google-api-core==1.16.0
