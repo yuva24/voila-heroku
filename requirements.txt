@@ -1,16 +1,6 @@
 voila-material
 absl-py==0.10.0
-alabaster==0.7.12
-albumentations==0.1.12
-altair==4.1.0
-anyio==2.2.0
-appdirs==1.4.4
-argon2-cffi==20.1.0
-asgiref==3.3.1
-astor==0.8.1
-astropy==4.2
-astunparse==1.6.3
-async-generator==1.10
+python-3.8.5
 contextlib2==0.5.5
 google==2.0.3
 google-api-core==1.16.0
